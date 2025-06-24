@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there I'am Abbass 👋
+
+🎓 CS Major & Math Minor | Mapping Milestones in Web & Game Development  
+💻 Fluent in C · C++ · JavaScript/React/Node.js · Python · HTML/CSS · Godot & GDScript — building clean, compelling code that sells itself  
+🎭 Scriptwriter · Monologist · Short-Film Director · Seasoned Stage Performer  
+🥊 I punch bugs (and occasionally opponents) for fun | 🌱 Plant-Keeper | 🎮 Weekend Warrior—gaming when time allows  
+---
+
+🤝 **Let’s collaborate!** Whether it’s an open-source project, a game jam, or a creative script, I’d love to build something awesome together. 
+#Contact me at (lashariabbasraza@gmail.com)
 
 <!--
 **abbasasindan/abbasasindan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
