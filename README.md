@@ -1,4 +1,4 @@
-# Hi there I'am Abbass 👋
+# Hi there I'm Abbass 👋
 
 🎓 CS Major & Math Minor | Mapping Milestones in Web & Game Development  
 💻 Fluent in C · C++ · JavaScript/React/Node.js · Python · HTML/CSS · Godot & GDScript — building clean, compelling code that sells itself  
